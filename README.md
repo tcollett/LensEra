@@ -1,5 +1,5 @@
-{% link about.md %}
+[About the project]({% link about.md %})
 
-{% link people.md %}
+[The Team]({% link people.md %})
 
-{% link publications.md %}
+[Publications]({% link publications.md %})
