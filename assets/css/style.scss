@@ -7,7 +7,6 @@ ul.navigation {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
 }
 
 ul.navigation li {
@@ -22,10 +21,14 @@ ul.navigation li a {
     text-decoration: none;
 }
 
-ul.navigation li a:hover {
-    background-color: #111;
+ul.navigation li a.left {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px 14px 0px;
+    text-decoration: none;
 }
 
-ul.navigation li a.active {
-    background-color: #04AA6D;
+ul.navigation li a:hover {
+    background-color: #111;
 }
