@@ -1,5 +1,5 @@
-[About the project]({% link about.md %})
+[About the project](/LensEra/about)
 
-[The Team]({% link people.md %})
+[The Team](/LensEra/people)
 
-[Publications]({% link publications.md %})
+[Publications](/LensEra/publications)
