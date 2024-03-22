@@ -1,11 +1,5 @@
----
-permalink: /about/
-permalink: /people/
-permalink: /publications/
----
+{% link about.md %}
 
-![About](about.md)
+{% link people.md %}
 
-![People](people.md)
-
-![Publications](publications.md)
+{% link publications.md %}
