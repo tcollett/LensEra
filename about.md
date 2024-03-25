@@ -2,7 +2,7 @@
 
 Gravitational lensing was first theorised by Albert Einstein to describe how light bends when it travels past massive objects like galaxies and galaxy clusters. Despite being a powerful cosmological probe for matter distribution, strong gravitational lensing is hamstrung by the small number of lensing systems: only a few hundred systems are known. The EU-funded LensEra project plans to combine machine learning, citizen science and automated lens modelling to build an engine to find 30 000 new lensing systems in the Large Synoptic Survey Telescope data in Chile. Analysis of subsets of lens populations will enable us to explore the most profound questions of our Universe, including the nature of dark matter and the measurement of dark energy's equation of state.
 
-#H2 Objective
+# Objective
 
 Strong gravitational lensing is on the cusp of a new era. Strong lensing occurs when the mass of a galaxy deforms space time so much that multiple images of a single background source is observed. Strong lensing is a powerful cosmological probe, but it is hamstrung by sample size: currently we only know of a few hundred systems. I am leading the work on a new telescope, the Large Synoptic Survey Telescope, which in its first year will observe more of the optical Universe than all previous telescopes combined. This revolutionary dataset will transform strong lensing into a statistical science by enabling LensEra to discover 30,000 new lenses and exploit them for cosmology.
 
