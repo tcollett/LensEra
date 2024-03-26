@@ -1,8 +1,8 @@
 # Publications
-[comment]: <This is the ADS string to generate these: %1l (%Y) "%T", %J, http://dx.doi.org/%d>
+[comment]: <This is the ADS string to generate these: %1l (%Y) "%T", %J, [Read it here](http://dx.doi.org/%d)>
 
 
-- Weisenbach, L., et al. (2024) "How to Break the Mass Sheet Degeneracy with the Lightcurves of Microlensed Type Ia Supernovae", arXiv e-prints, http://dx.doi.org/10.48550/arXiv.2403.03264
+- Weisenbach, L., et al. (2024) "How to Break the Mass Sheet Degeneracy with the Lightcurves of Microlensed Type Ia Supernovae", arXiv e-prints, [Read it here](http://dx.doi.org/10.48550/arXiv.2403.03264)
 - Ballard, D. J., et al. (2024) "Gravitational imaging through a triple source plane lens: revisiting the ΛCDM-defying dark subhalo in SDSSJ0946+1006", Monthly Notices of the Royal Astronomical Society, http://dx.doi.org/10.1093/mnras/stae514
 - Turner, H. C., et al. (2024) "Two-dimensional kinematics and dynamical modelling of the 'Jackpot' gravitational lens from deep MUSE observations", Monthly Notices of the Royal Astronomical Society, http://dx.doi.org/10.1093/mnras/stae263
 - Li, T., et al. (2024) "Cosmology from large populations of galaxy-galaxy strong gravitational lenses", Monthly Notices of the Royal Astronomical Society, http://dx.doi.org/10.1093/mnras/stad3514
