@@ -1,5 +1,5 @@
 # Publications
-[comment]: <This is the ADS string: %1l (%Y) "%T", %J, http://dx.doi.org/%d>
+[comment]: <This is the ADS string to generate these: %1l (%Y) "%T", %J, http://dx.doi.org/%d>
 
 
 - Weisenbach, L., et al. (2024) "How to Break the Mass Sheet Degeneracy with the Lightcurves of Microlensed Type Ia Supernovae", arXiv e-prints, http://dx.doi.org/10.48550/arXiv.2403.03264
