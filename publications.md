@@ -11,7 +11,7 @@
 - Rojas, K., et al. (2023) "The impact of human expert visual inspection on the discovery of strong gravitational lenses", Monthly Notices of the Royal Astronomical Society, [Read it here](http://dx.doi.org/10.1093/mnras/stad1680)
 - Goobar, A., et al. (2023) "Uncovering a population of gravitational lens galaxies with magnified standard candle SN Zwicky", Nature Astronomy, [Read it here](http://dx.doi.org/10.1038/s41550-023-01981-3)
 - Sharma, D., et al. (2023) "Testing cosmology with double source lensing", Journal of Cosmology and Astroparticle Physics, [Read it here](http://dx.doi.org/10.1088/1475-7516/2023/04/001)
-- Collett, T. E., et al. (2023) "The 4MOST Strong Lensing Spectroscopic Legacy Survey (4SLSLS)", The Messenger, [Read it here](http://dx.doi.org/10.18727/0722-6691/5313
+- Collett, T. E., et al. (2023) "The 4MOST Strong Lensing Spectroscopic Legacy Survey (4SLSLS)", The Messenger, [Read it here](http://dx.doi.org/10.18727/0722-6691/5313)
 - Graham, M. L., et al. (2023) "Deep drilling in the time domain with DECam: survey characterization", Monthly Notices of the Royal Astronomical Society, [Read it here](http://dx.doi.org/10.1093/mnras/stac3363)
 - Shajib, A. J., et al. (2022) "LensingETC: A Tool to Optimize Multifilter Imaging Campaigns of Galaxy-scale Strong Lensing Systems", The Astrophysical Journal, [Read it here](http://dx.doi.org/10.3847/1538-4357/ac927b)
 - Tran, K.-V. H., et al. (2022) "The AGEL Survey: Spectroscopic Confirmation of Strong Gravitational Lenses in the DES and DECaLS Fields Selected Using Convolutional Neural Networks", The Astronomical Journal, [Read it here](http://dx.doi.org/10.3847/1538- 3881/ac7da2)
