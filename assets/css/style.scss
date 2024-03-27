@@ -1,12 +1,22 @@
 ---
 ---
-
+$baseurl: "{{ site.baseurl }}";
 @import "{{ site.theme }}";
 body {
-    background-image: url("/assets/images/eso1819a.jpeg");
+    background-image: url($baseurl + "/assets/images/Lensshoe_hubble.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+h1, h2, h3, h4, h5, h6, p, li {
+    color: #ffffff
+} 
+
+#header_wrap, #main_content_wrap, #footer_wrap {
+    background: none;
+    border-top: none;
+    border-bottom: none;
 }
 
 ul.navigation {
@@ -61,4 +71,6 @@ ul.navigation li a:hover {
     vertical-align: middle;
     width: auto;
     height: 70px;
+    border: none;
+    box-shadow: none;
 }

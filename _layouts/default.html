@@ -21,8 +21,8 @@
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
         <ul class="navigation">
-            <li><a class="left" href="/LensEra/">Home</a></li>
-            <li><a href="about">About the Project</a></li>
+            <li><a class="left" href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="about">Objectives</a></li>
             <li><a href="people">The Team</a></li>
             <li><a href="publications">Publications</a></li>
         </ul>
@@ -42,10 +42,13 @@
         <div class="partners_wrapper">
           <ul class="partners">
             <li><a href="https://erc.europa.eu" target="_blank">
-              <img src="/assets/images/Flag_of_Europe.png">
+              <img src="{{ '/assets/images/Flag_of_Europe.png/' | relative_url }}">
             </a></li>
             <li><a href="https://erc.europa.eu" target="_blank">
-              <img src="/assets/images/European_Research_Council_logo.png">
+              <img src="{{ '/assets/images/erc_logo.png' | relative_url }}">
+            </a></li>
+            <li><a href="https://www.icg.port.ac.uk/" target="_blank">
+              <img src="{{ '/assets/images/University_of_Portsmouth_Logo.png' | relative_url }}">
             </a></li>
           </ul>
         </div>
