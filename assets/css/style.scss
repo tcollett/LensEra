@@ -5,7 +5,8 @@ $baseurl: "{{ site.baseurl }}";
 body {
     background-image: url($baseurl + "/assets/images/Lensshoe_hubble.jpg");
     background-size: cover;
-    background-position: center;
+    background-position-x: center;
+    background-position-y: top;
     background-repeat: no-repeat;
 }
 
